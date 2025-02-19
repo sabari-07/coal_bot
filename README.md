@@ -11,9 +11,6 @@ A Python-based chatbot application designed to provide information about coal mi
 - Dynamic Recommendations: After viewing a subsection, users can click "Know More" to reset and explore other sections.
 - Responsive Design: The chatbot window is responsive and adapts to the screen size.
 
-## Screenshots
-
-![Chatbot Screenshot](screenshots/chatbot_screenshot.png)  
 
 
 ## Prerequisites
