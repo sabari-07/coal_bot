@@ -45,6 +45,9 @@ coal-mine-chatbot/
 └── screenshots/           # Folder for screenshots
 ```
 
+## Demo Video for Chatbot
+URL : https://youtu.be/LycXeydK0vM
+
 ## How to Run the Project
 
 1. Clone the repository:
